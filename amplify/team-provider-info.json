@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-lifelog-dev-05939-authRole",
+            "UnauthRoleArn": "arn:aws:iam::926463600234:role/amplify-lifelog-dev-05939-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::926463600234:role/amplify-lifelog-dev-05939-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-lifelog-dev-05939-deployment",
+            "UnauthRoleName": "amplify-lifelog-dev-05939-unauthRole",
+            "StackName": "amplify-lifelog-dev-05939",
+            "StackId": "arn:aws:cloudformation:us-west-2:926463600234:stack/amplify-lifelog-dev-05939/328c6b30-b84c-11ea-b5f5-06e1bfa6e222",
+            "AmplifyAppId": "d2aufl5hcqqkvv"
+        }
+    }
+}
