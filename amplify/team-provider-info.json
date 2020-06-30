@@ -10,6 +10,13 @@
             "StackName": "amplify-lifelog-dev-05939",
             "StackId": "arn:aws:cloudformation:us-west-2:926463600234:stack/amplify-lifelog-dev-05939/328c6b30-b84c-11ea-b5f5-06e1bfa6e222",
             "AmplifyAppId": "d2aufl5hcqqkvv"
+        },
+        "categories": {
+            "auth": {
+                "lifeloga338fb24": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
         }
     }
 }

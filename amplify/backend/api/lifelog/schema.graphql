@@ -1,0 +1,16 @@
+type LogEntry @model @auth(rules: [{allow: owner}]){
+  UUID: ID!
+  owner: String!
+  date: AWSDateTime!
+  category: LogEntryCategory!
+  thing: String!
+  notes1: String
+  notes2: String
+  notes3: String
+  notes4: String
+}
+
+enum LogEntryCategory {
+  Life
+  House
+}
