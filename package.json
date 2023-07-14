@@ -13,7 +13,7 @@
   "dependencies": {
     "@aws-amplify/ui-vue": "^0.2.8",
     "@types/graphql": "^14.5.0",
-    "aws-amplify": "^3.0.18",
+    "aws-amplify": "^5.3.4",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
